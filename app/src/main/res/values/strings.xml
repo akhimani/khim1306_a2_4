@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">khim1306_a2_4</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\'m a button</string>
+    <string name="login_text">login</string>
+    <string name="login_hint">login name</string>
+    <string name="password_text">password</string>
+    <string name="radio_button_text">RadioButton</string>
+    <string name="switch_text">What does this do?</string>
+    <string name="image_button_description">Camera Button</string>
+    <string name="checkbox_text">CheckBox</string>
+    <string name="ok_button">Yes</string>
+    <string name="cancel_button">No</string>
+    <string name="dialog_title">Finish Activity</string>
+    <string name="dialog_message">Do you want to finish the activity?</string>
+    <string name="chatButton">Start Chat</string>
+    <string name="sendButtonText">Send</string>
+    <string name="outgoing_call">Outgoing Call</string>
+    <string name="incoming_call">Incoming Call</string>
+</resources>
